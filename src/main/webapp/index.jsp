@@ -7,7 +7,8 @@
 <img src="boxfuse.png">
 
 <h2>You have a nice day!!!</h2>
-
+<h2>Today 01.05.2022</h2>
+    
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
 </strong>.</p>
